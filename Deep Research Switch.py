@@ -1,7 +1,7 @@
 """
 title: Deep Research
 id: deep_research_switch
-author: OpenWebUI Deep Research
+author: JiangNanGenius
 version: 9.17.0
 license: MIT
 required_open_webui_version: 0.5.0
