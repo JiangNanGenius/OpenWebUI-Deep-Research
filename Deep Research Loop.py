@@ -1,7 +1,7 @@
 """
 title: Deep Research Loop
 id: deepresearch.loop
-author: OpenWebUI Deep Research
+author: JiangNanGenius
 version: 12.6.22.0
 license: MIT
 required_open_webui_version: 0.5.0
